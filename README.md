@@ -20,7 +20,7 @@
 
 ### Links
 **Visit Live website by clicking this Demo link**
-- Site URL: [Demo](https://daily-spark.vercel.app/)
+- Site URL: [Demo](https://landing-page-lyart-two.vercel.app/)
 
 ### Tech Stack
 - Nextjs

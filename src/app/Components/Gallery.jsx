@@ -7,11 +7,11 @@ import { MdKeyboardArrowRight, MdKeyboardArrowLeft } from "react-icons/md";
 const Gallery = () => {
   // Images Data
   const imageData = [
-    { id: 0, src: "/Gallery/image1.png" },
-    { id: 1, src: "/Gallery/image2.png" },
-    { id: 2, src: "/Gallery/image3.png" },
-    { id: 3, src: "/Gallery/image4.png" },
-    { id: 4, src: "/Gallery/image5.png" },
+    { id: 0, src: "/Gallery/Image1.png" },
+    { id: 1, src: "/Gallery/Image2.png" },
+    { id: 2, src: "/Gallery/Image3.png" },
+    { id: 3, src: "/Gallery/Image4.png" },
+    { id: 4, src: "/Gallery/Image5.png" },
   ];
 
   const [currentImage, setCurrentImage] = useState(imageData[0]);

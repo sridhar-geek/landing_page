@@ -4,7 +4,7 @@ import { IoMenuSharp } from "react-icons/io5";
 
 const Header = () => {
   return (
-    <header className="bg-[url('/Header/mobile.png')] bg-no-repeat bg-cover  md:bg-[url('/Header/desktop.png')] py-3">
+    <header className="bg-[url('/Header/Mobile.png')] bg-no-repeat bg-cover  md:bg-[url('/Header/Desktop.png')] py-3">
       {/* Nav Items */}
       <nav className="flex justify-between items-center margin mt-8">
         <Image src="/logo.png" alt="logo" width={150} height={60} />
