@@ -16,4 +16,7 @@
     .galleryBtn{
         @apply  text-sm md:text-lg rounded-md
     }
+    .navBtn{
+        @apply absolute top-24 sm:top-28 md:top-40 lg:top-[200px] bg-white rounded-full p-1 text-3xl
+    }
 }
