@@ -8,9 +8,15 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        "gradient-radial": "radial-gradient(var(--tw-gradient-stops))",
-        "gradient-conic":
-          "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
+        // 'HeaderMobile': "url('/HeaderImages/mobile.png')"
+      },
+      colors: {
+        primary: {
+          light: "#17ABFF",
+          dark: "#00357B",
+        },
+        btnColor: "#17ABFF",
+        footer: "#091d41",
       },
     },
   },
