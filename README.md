@@ -16,7 +16,7 @@
 
 ### Screenshot
 
-![](./public/Images/Screenshot.png)
+![](./public/Screenshot%20.png)
 
 ### Links
 **Visit Live website by clicking this Demo link**
@@ -32,7 +32,7 @@
 ## Setup/Installition
 Clone the repository using this command
   ```sh
-git clone https://github.com/sridhar-geek/Daily-Spark.git
+git clone https://github.com/sridhar-geek/landing_page
 ```
 Type these command in your teriminal after Cloning the Repository
  ```sh 

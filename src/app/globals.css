@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Geologica:wght@100..900&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Lato&family=Lemonada:wght@500&family=Manrope&family=Monoton&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Oswald:wght@200..700&family=Poppins:wght@200;400;600&family=Roboto&family=Signika:wght@600&family=Tourney:wght@400;800&family=Ubuntu:wght@500&family=Ysabeau:ital,wght@0,300;1,500&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -9,7 +11,7 @@
 
     /* Header Styles */
     .headerCard{
-        @apply bg-black text-white p-2 border-2 border-l-btnColor border-black
+        @apply bg-headerPara text-white p-2 border-2 border-l-btnColor border-headerPara
     }
 
     /* Gallery Styles */

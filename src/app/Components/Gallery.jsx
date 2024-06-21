@@ -33,10 +33,10 @@ const Gallery = () => {
     <article className="margin my-5">
       {/* Buttons */}
       <div className="flex justify-end gap-4">
-        <button className="galleryBtn bg-primary-dark text-white font-semibold px-3 md:px-8 py-1">
+        <button className="galleryBtn bg-primary-dark font-poppins text-white font-semibold px-3 md:px-8 py-1">
           EXTERIORS
         </button>
-        <button className="galleryBtn outline text-primary-dark font-bold px-2 md:px-5 py-3">
+        <button className="galleryBtn outline font-poppins text-primary-dark font-bold px-2 md:px-5 py-3">
           INTERIORS
         </button>
       </div>
@@ -67,7 +67,7 @@ const Gallery = () => {
               alt="small Images"
               width={335}
               height={100}
-              className="rounded-md min-w-24 max-w-96"
+              className="rounded-md min-w-24 max-w-96 hover:scale-110 duration-300 cursor-pointer"
             />
           ))}
       </div>
